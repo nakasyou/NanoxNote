@@ -1,0 +1,2 @@
+# NanohaNote Store
+- Pinia
